@@ -1,5 +1,4 @@
 # hello-world
-my very first repository
 
 Hey fellow weirdoos!
 Here I am wondering what the hell I am doing learning this shit. But I am liking it.
